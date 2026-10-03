@@ -1,0 +1,4 @@
+# Web layer. The ML stack comes from the project's own requirements.txt at the repo root
+-r ../../requirements.txt
+fastapi>=0.110
+uvicorn>=0.29
